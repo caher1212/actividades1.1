@@ -196,6 +196,15 @@ main{
     left: 97px;
     text-align: left;
 }
+.product3-img img{
+    width: 105px;
+}
+.product3-img{
+    position: absolute;
+    top: 322px;
+    left: 97px;
+    text-align: left;
+}
 .product2-img img{
     width: 105px;
 }
